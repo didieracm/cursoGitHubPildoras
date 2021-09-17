@@ -1,1 +1,5 @@
-modif 1
+body{
+    background-color: aqua;
+    font-weight:bold ;
+    color:#F00
+}
